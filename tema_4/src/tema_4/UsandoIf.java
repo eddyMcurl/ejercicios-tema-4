@@ -11,7 +11,7 @@ public class UsandoIf {
 			System.out.println("es negativo");
 		if(numeroIf>0)
 			System.out.println("es positivo");
-		System.out.println("listo");
+		System.out.println("listo agregar");
 		
 	}
 
